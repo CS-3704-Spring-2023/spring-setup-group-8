@@ -237,6 +237,11 @@ on Render.com: https://jpa03-chrislee123.onrender.com<br>
 
 Then, **and this is super important**, please make both of those URLs **clickable urls**.
 
+#Information on how the group is communicating
+
+Our Group is communicating mainly through an imessage group chat, but we also have everyone's emails to send relevant links. We conduct our team meetings through Zoom.
+
+
 # Grading Rubric:
 
 * (20 pts) Basic Logistics
